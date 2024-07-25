@@ -1,0 +1,58 @@
+/* src/components/ContactUs.css */
+
+.container {
+  margin-top: 20px;
+  padding: 20px;
+  background-color: #6deea1e0;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+form {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+.form-label {
+  font-weight: bold;
+  color: #555;
+}
+
+.form-control {
+  border-radius: 4px;
+  border: 1px solid #ccc;
+  padding: 10px;
+  font-size: 16px;
+}
+
+button {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  background-color: #00fbfff0;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #00b377;
+}
+
+iframe {
+  margin-top: 20px;
+  border-radius: 8px;
+  border: 1px solid #ddd;
+}

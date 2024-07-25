@@ -1,0 +1,36 @@
+/* Gallery.css */
+.gallery-container {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .gallery-title {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #007bff;
+  }
+  
+  .gallery-row {
+    margin-bottom: 20px;
+  }
+  
+  .gallery-col {
+    margin-bottom: 20px;
+  }
+  
+  .gallery-img {
+    height: 200px; /* Set a fixed height */
+    width: 100%; /* Ensure the image fills the column width */
+    object-fit: cover; /* Ensure the image covers the area without stretching */
+    border-radius: 8px; /* Add rounded corners */
+  }
+  
+  .gallery-caption {
+    text-align: center;
+    margin-top: 10px;
+    color: #343a40;
+  }
+  

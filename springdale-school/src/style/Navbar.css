@@ -1,0 +1,13 @@
+.navbar-brand {
+  display: flex;
+  align-items: center;
+  font-size: 1.25rem; /* Adjust the font size as needed */
+}
+
+.navbar-brand img {
+  margin-right: 10px; /* Space between logo and text */
+}
+
+.navbar .ml-auto {
+  margin-left: auto;
+}

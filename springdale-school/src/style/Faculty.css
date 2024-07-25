@@ -1,0 +1,23 @@
+/* Faculty.css */
+.faculty-container {
+    margin-top: 20px;
+  }
+  
+  .faculty-title {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .faculty-member {
+    margin-bottom: 20px;
+  }
+  
+  .faculty-img {
+    width: 100%;
+    height: auto;
+  }
+.mt-2{
+    margin: auto;
+}
+  
+  

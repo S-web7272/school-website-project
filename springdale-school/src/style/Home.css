@@ -1,0 +1,25 @@
+.carousel-img {
+  height: 500px; /* Adjust as needed */
+  object-fit: cover;
+}
+
+.box-card {
+  margin-bottom: 20px;
+}
+
+.custom-btn {
+  background-color: #007bff; /* Primary color */
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  text-decoration: none; /* Removes underline from links */
+}
+
+.custom-btn:hover {
+  background-color: #0056b3; /* Darker shade for hover effect */
+}
+
+  
